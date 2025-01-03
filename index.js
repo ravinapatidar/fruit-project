@@ -52,7 +52,7 @@
 
     },
     {
-        name: " Onion",
+        name: " Kanda",
         image: "onion image.jpeg",
         details:"Onions are a temperate crop that can grow in a wide range of climates, including tropical and subtropical.Onions can grow in a variety of soils, including sandy loam, clay loam, silt loam, and heavy soils.Onions are used in cooking, and also have non-culinary uses. For example, their pungent juice can be used as a moth repellent, and concentrated onion water can be sprayed on plants to increase their pest resistance "
     },
